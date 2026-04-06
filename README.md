@@ -94,3 +94,10 @@ Aspiring Frontend Developer | JavaScript Enthusiast
 ## Note
 
 This repository reflects my learning journey and continuous improvement in JavaScript. Feedback and suggestions are always welcome!
+Connect with Me
+
+GitHub: (https://github.com/UtkarshaGN)
+
+LinkedIn: (https://www.linkedin.com/in/utkarsha-n-074881275/)
+
+⭐ If you find this helpful, feel free to star this repo!
